@@ -1,6 +1,5 @@
 import { Banner } from "@/components/banner";
 import { ContainerScroll } from "@/components/container-scroll-animation";
-import { TypewriterEffect } from "@/components/typeWriterEffect";
 import Image from "next/image";
 
 export default function Home() {
